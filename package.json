@@ -1,11 +1,17 @@
 {
   "name": "@mpazaryna/tiny",
   "version": "1.0.0",
-  "description": "Test deployment to NPM",
+  "description": "Removes all spaces from a string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mpazaryna",
-  "license": "ISC"
+  "license": "MIT",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "mpazaryna"
+  ]
 }
