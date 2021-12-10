@@ -13,5 +13,8 @@
     "npm",
     "package",
     "mpazaryna"
-  ]
+  ],
+  "devDependencies": {
+    "auto": "^10.32.4"
+  }
 }
